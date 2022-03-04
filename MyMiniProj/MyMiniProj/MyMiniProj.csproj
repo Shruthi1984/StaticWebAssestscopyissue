@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+	<ItemGroup>
+		<Folder Include="Client\" />
+	</ItemGroup>
+
+	<Target Name="PreBuild" BeforeTargets="PreBuildEvent">
+		<Exec Command="npm install" />
+		<Exec Command="ng build MyMiniProj --configuration production --aot --output-hashing=none --outputPath=wwwroot" />
+		<ItemGroup>
+			<Content Include="wwwroot\**" CopyToOutputDirectory="PreserveNewest" />
+		</ItemGroup>
+		<PropertyGroup>
+			<RunCodeAnalysisOnThisProject>false</RunCodeAnalysisOnThisProject>
+		</PropertyGroup>
+	</Target>
+
+</Project>

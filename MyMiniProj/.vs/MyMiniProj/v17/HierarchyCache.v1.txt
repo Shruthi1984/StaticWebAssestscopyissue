@@ -1,0 +1,215 @@
+﻿++Solution 'MyMiniProj' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:MyMiniProj.sln
+++MyMiniProj
+i:{00000000-0000-0000-0000-000000000000}:MyMiniProj
+++Connected Services 
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:>19
+++Dependencies
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:>18
+++Properties
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\properties\
+++launchSettings.json
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\properties\launchsettings.json
+++wwwroot
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\wwwroot\
+++Client
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\client\
+++app
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\client\app\
+++app.component.html
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\client\app\app.component.html
+++app.component.scss
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\client\app\app.component.scss
+++app.component.spec.ts
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\client\app\app.component.spec.ts
+++app.component.ts
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\client\app\app.component.ts
+++app.module.ts
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\client\app\app.module.ts
+++app-routing.module.ts
+++assets
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\client\assets\
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\wwwroot\assets\
+++Images
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\client\assets\images\
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\wwwroot\assets\images\
+++abc.txt
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\client\assets\images\abc.txt
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\wwwroot\assets\images\abc.txt
+++environments
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\client\environments\
+++environment.prod.ts
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\client\environments\environment.prod.ts
+++environment.ts
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\client\environments\environment.ts
+++Controllers
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\controllers\
+++HomeController.cs
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\controllers\homecontroller.cs
+++dist
+++Views
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\views\
+++Home
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\views\home\
+++Index.cshtml
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\views\home\index.cshtml
+++Shared
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\views\shared\
+++_Layout.cshtml
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\views\shared\_layout.cshtml
+++Error.cshtml
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\views\_viewstart.cshtml
+++.browserslistrc
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\.browserslistrc
+++.editorconfig
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\.editorconfig
+++.gitignore
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\.gitignore
+++angular.json
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\angular.json
+++appsettings.json
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\appsettings.json
+++favicon.ico
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\favicon.ico
+++index.html
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\index.html
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\wwwroot\index.html
+++karma.conf.js
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\karma.conf.js
+++main.ts
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\main.ts
+++package.json
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\package.json
+++polyfills.ts
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\polyfills.ts
+++Program.cs
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\program.cs
+++README.md
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\readme.md
+++Startup.cs
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\startup.cs
+++styles.scss
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\styles.scss
+++test.ts
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\test.ts
+++tsconfig.json
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\tsconfig.json
+++No service dependencies discovered
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:>20
+++Analyzers
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:analyzers
+++Frameworks
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:frameworks
+++3rdpartylicenses.txt
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\wwwroot\3rdpartylicenses.txt
+++main.js
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\wwwroot\main.js
+++polyfills.js
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\wwwroot\polyfills.js
+++runtime.js
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\wwwroot\runtime.js
+++styles.css
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\wwwroot\styles.css
+++vendor.js
+++out-tsc
+++appsettings.Development.json
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\appsettings.development.json
+++package-lock.json
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\package-lock.json
+++tsconfig.app.json
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\tsconfig.app.json
+++tsconfig.spec.json
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\tsconfig.spec.json
+++Microsoft.AspNetCore.Analyzers
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{ccc2e6f9-f092-4461-a20a-4b471916c0ea}:d:\demo\myminiproj\myminiproj\microsoft.netcore.app
+++test.js
+++main.js.map
+++polyfills.js.map
+++test.js.map
+++app.component.js
+++app.module.js
+++app-routing.module.js
+++environment.js
+++app.component.js.map
+++app.component.spec.js
+++app.module.js.map
+++app-routing.module.js.map
+++environment.js.map
+++environment.prod.js
+++app.component.spec.js.map
+++environment.prod.js.map
+++npm
+++@angular/animations - not installed
+++@angular/cli - not installed
+++@angular/common - not installed
+++@angular/compiler - not installed
+++@angular/compiler-cli - not installed
+++@angular/core - not installed
+++@angular/forms - not installed
+++@angular/platform-browser - not installed
+++@angular/platform-browser-dynamic - not installed
+++@angular/router - not installed
+++@angular-devkit/build-angular - not installed
+++@types/jasmine - not installed
+++@types/node - not installed
+++jasmine-core - not installed
+++karma - not installed
+++karma-chrome-launcher - not installed
+++karma-coverage - not installed
+++karma-jasmine - not installed
+++karma-jasmine-html-reporter - not installed
+++rxjs - not installed
+++tslib - not installed
+++typescript - not installed
+++zone.js - not installed
+++@angular/animations (12.2.16)
+++@angular/cli (12.2.16)
+++@angular/common (12.2.16)
+++@angular/compiler (12.2.16)
+++@angular/compiler-cli (12.2.16)
+++@angular/core (12.2.16)
+++@angular/forms (12.2.16)
+++@angular/platform-browser (12.2.16)
+++@angular/platform-browser-dynamic (12.2.16)
+++@angular/router (12.2.16)
+++@angular-devkit/build-angular (12.2.16)
+++@types/jasmine (3.8.2)
+++@types/node (12.20.46)
+++jasmine-core (3.8.0)
+++karma (6.3.17)
+++karma-chrome-launcher (3.1.0)
+++karma-coverage (2.0.3)
+++karma-jasmine (4.0.1)
+++karma-jasmine-html-reporter (1.7.0)
+++rxjs (6.6.7)
+++tslib (2.3.1)
+++typescript (4.3.5)
+++zone.js (0.11.4)
